@@ -36,7 +36,7 @@ import pandas as pd
 
 # Output
 
-![alt text](https://raw.githubusercontent.com/sumitdnath/CME-Data-Scraper/blob/main/image.png)
+![alt text](https://raw.githubusercontent.com/sumitdnath/CME-Data-Scraper/main/image.png)
 
 Capture and display screenshots of the script in action or of the output for better clarity. This aids users in understanding how the script works and what to expect.
 
