@@ -19,8 +19,11 @@ pip install requests pandas
 
 1. Import necessary libraries:
 
-```import requests```
-```import pandas as pd```
+```
+import requests
+import pandas as pd
+
+```
 
 2. Set the date variable to the desired date for fetching futures data from CME Group.
 3. Construct the URL for the CME Group API endpoint, including the date parameter.
